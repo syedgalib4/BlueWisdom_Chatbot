@@ -1,6 +1,6 @@
-                                                           NexusAI Chatbot ✨
+                                                           Bluewisdom Chatbot ✨
 
-Welcome to NexusAI, a modern and intelligent conversational AI chatbot built with Python and Streamlit. Powered by the Google Gemini API, NexusAI offers a sleek, professional dark-themed interface for seamless interaction, featuring both text and voice input, along with multi-chat session management.
+Welcome to BlueWisdom, a modern and intelligent conversational AI chatbot built with Python and Streamlit. Powered by the Google Gemini API, Bluwidom offers a sleek, professional dark-themed interface for seamless interaction, featuring both text and voice input, along with multi-chat session management.
 
 
 -> Features
