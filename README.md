@@ -1,6 +1,6 @@
                                                            Bluewisdom Chatbot ✨
 
-Welcome to BlueWisdom, a modern and intelligent conversational AI chatbot built with Python and Streamlit. Powered by the Google Gemini API, Bluwidom offers a sleek, professional dark-themed interface for seamless interaction, featuring both text and voice input, along with multi-chat session management.
+Welcome to BlueWisdom, a modern and intelligent conversational AI chatbot built with Python and Streamlit. Powered by the Google Gemini API, Bluwisdom offers a sleek, professional dark-themed interface for seamless interaction, featuring both text and voice input, along with multi-chat session management.
 
 
 -> Features
@@ -42,8 +42,7 @@ Welcome to BlueWisdom, a modern and intelligent conversational AI chatbot built 
 -> Installation
   ->Clone the repository:
 
-   - git clone https://github.com/syed-roshan-786/AI_ChatBot.git
-   - cd nexusai-chatbot
+   - git clone https://github.com/syedgalib4/BlueWisdom_Chatbot.git
 
 -> Create and activate a virtual environment:
 
@@ -82,7 +81,7 @@ streamlit run app.py
 - Paste your Google Gemini API key into the input field at the top of the page.
 
 -> Start Chatting:
-Once the model is initialized, you can start your conversation with NexusAI!
+Once the model is initialized, you can start your conversation with BlueWisdom!
 
 📂 File Structure
 .
